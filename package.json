@@ -59,7 +59,7 @@
     "@react-types/shared": "^3.29.1",
     "@remix-run/router": "1.23.0",
     "@rsdoctor/rspack-plugin": "1.1.7",
-    "@rspack/cli": "1.4.4",
+    "@rspack/cli": "1.7.12",
     "@rspack/core": "1.4.4",
     "@rspack/plugin-react-refresh": "1.4.3",
     "@sentry-internal/global-search": "^1.0.0",
